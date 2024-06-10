@@ -1,6 +1,5 @@
-numpy
-matplotlib
-scipy
-astropy
-astroquery
-photutils
+numpy==1.21.0
+matplotlib==3.4.2
+astropy==4.3.1
+astroquery==0.4.4
+photutils==1.1.0
